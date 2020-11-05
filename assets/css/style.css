@@ -142,7 +142,7 @@ textarea {
     padding: 7px;
     border-bottom: 1px solid white;
     margin-bottom: 5px;
-    color: white;
+    color: white !important;
 }
 
 input::placeholder,
